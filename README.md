@@ -1,6 +1,10 @@
 # Overview
 Users get points by clicking images but if an image is click on twice the game starts over.
 
+### Deployed On Heroku Link
+https://clickygame112.herokuapp.com/
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
